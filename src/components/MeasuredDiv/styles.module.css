@@ -1,0 +1,7 @@
+.measuredDivHidden {
+  visibility: hidden;
+  position: fixed;
+  left: 100%;
+  top: 100%;
+  pointer-events: none;
+}
