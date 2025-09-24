@@ -1,6 +1,5 @@
 .root {
-  height: 100%;
-  flex: none;
+  height: 100lvh;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -54,7 +53,7 @@
 }
 
 .scroller {
-  height: 200px;
+  height: 25vh;
   flex: none;
   display: flex;
   justify-content: center;
